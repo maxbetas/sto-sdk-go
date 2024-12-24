@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
-go get github.com/your-username/sto-sdk-go
+go get github.com/maxbetas/sto-sdk-go
 ```
 
 ## 功能特性
@@ -28,7 +28,7 @@ package main
 import (
     "fmt"
     "log"
-    "github.com/your-username/sto-sdk-go/sto"
+    "github.com/maxbetas/sto-sdk-go"
 )
 
 func main() {
