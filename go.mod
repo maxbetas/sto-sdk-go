@@ -1,3 +1,3 @@
-module github.com/your-username/sto-sdk-go
+module github.com/maxbetas/sto-sdk-go
 
 go 1.20 
